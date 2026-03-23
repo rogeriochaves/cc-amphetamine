@@ -6,7 +6,7 @@
                 "hooks": [
                     {
                         "type": "command",
-                        "command": "/Users/rchaves/Library/pnpm/cc-amphetamine caffeinate"
+                        "command": "node ${CLAUDE_PLUGIN_ROOT}/amphetamine.js caffeinate"
                     }
                 ]
             }
@@ -17,7 +17,7 @@
                 "hooks": [
                     {
                         "type": "command",
-                        "command": "/Users/rchaves/Library/pnpm/cc-amphetamine caffeinate"
+                        "command": "node ${CLAUDE_PLUGIN_ROOT}/amphetamine.js caffeinate"
                     }
                 ]
             }
@@ -28,7 +28,7 @@
                 "hooks": [
                     {
                         "type": "command",
-                        "command": "/Users/rchaves/Library/pnpm/cc-amphetamine caffeinate"
+                        "command": "node ${CLAUDE_PLUGIN_ROOT}/amphetamine.js caffeinate"
                     }
                 ]
             }
@@ -38,7 +38,7 @@
                 "hooks": [
                     {
                         "type": "command",
-                        "command": "/Users/rchaves/Library/pnpm/cc-amphetamine uncaffeinate"
+                        "command": "node ${CLAUDE_PLUGIN_ROOT}/amphetamine.js uncaffeinate"
                     }
                 ]
             }
