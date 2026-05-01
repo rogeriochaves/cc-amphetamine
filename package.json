@@ -35,7 +35,7 @@
     "proper-lockfile": "^4.1.2"
   },
   "devDependencies": {
-    "eslint": "^9.37.0",
+    "eslint": "^10.2.1",
     "prettier": "^3.6.2"
   },
   "engines": {
